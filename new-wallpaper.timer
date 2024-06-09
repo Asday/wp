@@ -1,0 +1,8 @@
+[Unit]
+Description=Periodically change wallpapers.
+
+[Timer]
+OnCalendar=*-*-* *:*:00
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+feh --randomize --bg-max $WP_HOME/*

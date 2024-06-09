@@ -1,0 +1,5 @@
+[Unit]
+Description=Pick new random wallpapers for each screen.
+
+[Service]
+ExecStart=/home/asday/.local/bin/new-wallpaper
